@@ -29,6 +29,8 @@ Specs:
 
 5.	Create factor list {1,2,3} for difficulty of delivery.  1 = normal, 2 = difficult, 3 = very difficult
 
+6.	Must check if a customer has more than one location and further prompt
+
 
 Comments:
 Need to figure out pricing for customers and trucking.  Need to figure out how to calculate distance by zip code.
